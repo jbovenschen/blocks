@@ -1,7 +1,7 @@
 {
-  "name": "tetris-saga",
+  "name": "blocks",
   "version": "0.0.0",
-  "description": "A Beginner tutorial to explain redux-saga by building tetris",
+  "description": "A Beginner tutorial to explain redux-saga by building tetris like game",
   "main": "src/index.js",
   "scripts": {
     "start": "webpack-dev-server",
