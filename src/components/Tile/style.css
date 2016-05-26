@@ -1,0 +1,10 @@
+.tile {
+  position: absolute;
+  display: block;
+  background: transparent;
+  box-sizing: border-box;
+  background: currentColor;
+  outline-offset: -2px;
+  outline-style: solid;
+  outline-color: #2c3e50;
+}

@@ -1,0 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Play:400,700);
+
+.screen {
+  font-family: 'Play', sans-serif;
+  background: #2c3e50;
+  position: relative;
+  margin: auto;
+  font-weight: 400;
+}
